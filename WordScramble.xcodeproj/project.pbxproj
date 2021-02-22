@@ -13,6 +13,7 @@
 		74DAF74625E3F1EB00663CBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74DAF74525E3F1EB00663CBD /* Assets.xcassets */; };
 		74DAF74925E3F1EB00663CBD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74DAF74825E3F1EB00663CBD /* Preview Assets.xcassets */; };
 		74DAF74C25E3F1EB00663CBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74DAF74A25E3F1EB00663CBD /* LaunchScreen.storyboard */; };
+		74DAF75525E3F21300663CBD /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 74DAF75425E3F21300663CBD /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		74DAF74825E3F1EB00663CBD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		74DAF74B25E3F1EB00663CBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74DAF74D25E3F1EB00663CBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74DAF75425E3F21300663CBD /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				74DAF74125E3F1E800663CBD /* SceneDelegate.swift */,
 				74DAF74325E3F1E800663CBD /* ContentView.swift */,
 				74DAF74525E3F1EB00663CBD /* Assets.xcassets */,
+				74DAF75425E3F21300663CBD /* start.txt */,
 				74DAF74A25E3F1EB00663CBD /* LaunchScreen.storyboard */,
 				74DAF74D25E3F1EB00663CBD /* Info.plist */,
 				74DAF74725E3F1EB00663CBD /* Preview Content */,
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74DAF74C25E3F1EB00663CBD /* LaunchScreen.storyboard in Resources */,
+				74DAF75525E3F21300663CBD /* start.txt in Resources */,
 				74DAF74925E3F1EB00663CBD /* Preview Assets.xcassets in Resources */,
 				74DAF74625E3F1EB00663CBD /* Assets.xcassets in Resources */,
 			);
